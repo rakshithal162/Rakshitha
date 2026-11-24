@@ -1,0 +1,21 @@
+To: support@10seconds.co.in
+Subject: E029 – Final Submission
+
+Dear 10 SECONDS Team,
+
+Team E029 (Rahul S J and Rakshitha L) is submitting the final project for
+ECE-034 – Mobile Phone Exchange and Buy-Back Valuation Engine.
+
+Repository (public): https://github.com/<your-github-username>/E029-ECE-034
+Demo video (5 minutes): <paste video link here>
+
+The repository contains:
+- README with steps to run
+- Design document (PDF): output/pdf/E029_ECE034_Design_Document.pdf
+- Full test suite (45 tests): test_exchange_engine.py
+- Decision log: DECISION_LOG.md
+- Link to the demo video (above)
+
+Regards,
+Rahul S J and Rakshitha L
+Team E029

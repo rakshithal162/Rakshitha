@@ -1,0 +1,7 @@
+# ECE-034 commands — process in file order
+LOAD_MODELS|models.csv
+LOAD_BLACKLIST|blacklist.csv
+PROCESS_REQUESTS|requests.csv
+PRINT_REGISTER|2026-10-05
+PRINT_REGISTER|2026-10-06
+PRINT_REGISTER|2026-10-07

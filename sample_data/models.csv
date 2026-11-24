@@ -1,0 +1,21 @@
+model_code,brand,model_name,base_price
+MDL-001,Samsung,Galaxy M14,6000.00
+MDL-002,Samsung,Galaxy A34,14000.00
+MDL-003,Samsung,Galaxy S23,38000.00
+MDL-004,Xiaomi,Redmi 12,7000.00
+MDL-005,Xiaomi,Redmi Note 13 Pro,12000.00
+MDL-006,Xiaomi,Mi 11X,16000.00
+MDL-007,Realme,Narzo 60,8000.00
+MDL-008,Realme,Realme 11 Pro,13000.00
+MDL-009,Vivo,Vivo Y27,9000.00
+MDL-010,Vivo,Vivo V29,17000.00
+MDL-011,OnePlus,Nord CE 3,15000.00
+MDL-012,OnePlus,OnePlus 11R,24000.00
+MDL-013,OnePlus,OnePlus 12,36000.00
+MDL-014,Apple,iPhone 12,28000.00
+MDL-015,Apple,iPhone 14,42000.00
+MDL-016,Apple,iPhone 15 Pro,60000.00
+MDL-017,Motorola,Moto G54,10000.00
+MDL-018,Motorola,Edge 40,20000.00
+MDL-019,Oppo,Oppo A78,11000.00
+MDL-020,Oppo,Reno 10,22000.00

@@ -1,0 +1,7 @@
+# ECE-034 sample commands for Team E029 (processed in file order)
+LOAD_MODELS|sample_data/models.csv
+LOAD_BLACKLIST|sample_data/blacklist.csv
+PROCESS_REQUESTS|sample_data/requests.csv
+PRINT_REGISTER|2026-10-05
+PRINT_REGISTER|2026-10-06
+PRINT_REGISTER|2026-10-07
